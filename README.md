@@ -14,7 +14,7 @@
 
 ## 三、实验步骤与结果
 #### 1. 在Android Studio创建新项目Mydemo1。
-！[http://i2.muimg.com/567571/f6d8543c7fffabce.png]
+![http://i2.muimg.com/567571/f6d8543c7fffabce.png]
 
 #### 2. 在Android Stdio中右键点击右上角的VCS，选择Import into Version Control，Share Project on Github，输入自己的Github的帐号密码登录Github。
 ![http://i2.muimg.com/567571/5a45287afdeefce5.png]
