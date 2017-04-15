@@ -31,7 +31,7 @@
 ![http://i1.piimg.com/567571/35b66c2102d0855c.png]
 
 #### 6. 在Github上查看修改操作。
-![http://i2.muimg.com/567571/d1e7688f52d2affc.png]
+![http://i1.piimg.com/567571/7429ce9c0ee6a41e.png]
 
 ## 四、实验小结
   通过此次实验，我掌握了如何把Android Stdio中的项目发布到Github上，每次修改后commit and push到Github上，这样我们就可以在Github上看到项目中的每一次修改操作，十分清晰，有利于查看。
